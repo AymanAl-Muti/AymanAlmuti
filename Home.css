@@ -1,0 +1,72 @@
+:root {
+    background-color: rgb(255, 255, 255);
+}
+
+.Header {
+    overflow: hidden;
+}
+
+.Title {
+    float: left;
+    margin-left: 50px;
+    font-weight: normal;
+    font-family: "Segoe UI", "Frutiger";
+    color: rgb(85, 84, 84);
+    font-size: 30px;
+    position: relative;
+    bottom: 9px;
+}
+
+.desc {
+    float: left;
+    color: rgb(85, 84, 84);
+    font-family: "Segoe UI", "Frutiger";
+    font-weight: lighter;
+    position: relative;
+    top: 28px;
+    right: 188px;
+}
+
+.HeaderButton {
+    overflow: hidden;
+    outline: none;
+    border-style: solid;
+    background-color: transparent;
+    color: rgb(85, 84, 84);
+    font-family: "Segoe UI", "Frutiger";
+    font-size: 20px;
+    font-weight: normal;
+    border-color: transparent;
+    float: right;
+    margin: 10px;
+    position: relative;
+    top: 10px;
+}
+
+.HeaderButton:hover {
+    color: rgb(117, 16, 247);
+    cursor: pointer;
+    position: relative;
+    bottom: 100px;
+}
+
+hr.line {
+    margin: 1px;
+}
+
+.body {
+    height: 500px;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 50px;
+    bottom: 10px;
+}
+
+.headerStop {
+    position: relative;
+    bottom: 30px;
+}
