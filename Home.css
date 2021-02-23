@@ -7,24 +7,20 @@
 }
 
 .Title {
-    float: left;
-    margin-left: 50px;
-    font-weight: normal;
     font-family: "Segoe UI", "Frutiger";
-    color: rgb(85, 84, 84);
-    font-size: 30px;
+    color: rgb(117, 16, 247);
     position: relative;
-    bottom: 9px;
+    top: 80px;
+    left: 280px;
 }
 
 .desc {
-    float: left;
-    color: rgb(85, 84, 84);
+    color: #823bde;
     font-family: "Segoe UI", "Frutiger";
     font-weight: lighter;
     position: relative;
-    top: 28px;
-    right: 188px;
+    top: 80px;
+    left: 380px;
 }
 
 .HeaderButton {
