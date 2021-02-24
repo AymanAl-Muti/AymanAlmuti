@@ -37,6 +37,8 @@
     margin: 10px;
     position: relative;
     top: 10px;
+    text-underline-position: none;
+    text-decoration: none
 }
 
 .HeaderButton:hover {
