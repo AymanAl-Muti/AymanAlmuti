@@ -1,0 +1,54 @@
+body {}
+
+.Title {
+    font-family: "Segoe UI", "Frutiger";
+    color: rgb(117, 16, 247);
+    padding-left: 125px;
+    padding-top: 120px;
+    /*position: relative;
+    left: 180px;
+    top: 20px*/
+}
+
+.desc {
+    color: #823bde;
+    font-family: "Segoe UI", "Frutiger";
+    font-weight: lighter;
+    padding-left: 222px;
+    /*position: relative;
+    left: 280px;
+    top: 20px;*/
+}
+
+.HeaderButton {
+    overflow: hidden;
+    outline: none;
+    border-style: solid;
+    background-color: transparent;
+    color: rgb(85, 84, 84);
+    font-family: "Segoe UI", "Frutiger";
+    font-size: 20px;
+    font-weight: normal;
+    border-color: transparent;
+    float: right;
+    margin: 10px;
+    position: relative;
+    top: 10px;
+    text-underline-position: none;
+    text-decoration: none
+}
+
+.HeaderButton:hover {
+    color: rgb(117, 16, 247);
+    cursor: pointer;
+    position: relative;
+    bottom: 100px;
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+    position: relative;
+    left: 50px;
+    bottom: 10px;
+}
